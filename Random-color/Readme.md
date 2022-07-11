@@ -1,0 +1,1 @@
+A simple Random Color  Generation  Vanilla  JS Script using event listeners and Es6 arrow functions
